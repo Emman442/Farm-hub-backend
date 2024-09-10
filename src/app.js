@@ -5,6 +5,7 @@ const sequelize = require("../database")
 const globalErrorHandler = require("./controllers/errorController");
 const userRoutes = require("./routes/userRoutes")
 const cropRoutes = require("./routes/cropRoutes");
+const weatherRoutes = require("./routes/weatherRoutes");
 const AppError = require("./utils/appError");
 require('dotenv').config({ path: './src/.env' });
 const app = express()
@@ -18,6 +19,7 @@ app.use(cookieParser())
 
 app.use(`/api/${apiVersion}/user`, userRoutes);
 app.use(`/api/${apiVersion}/crop`, cropRoutes);
+app.use(`/api/${apiVersion}/weather`, weatherRoutes);
 // app.use(`/api/${apiVersion}/user`, userRoutes);
 
 async function testConnection(){

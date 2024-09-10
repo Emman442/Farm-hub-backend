@@ -1,0 +1,189 @@
+{
+    "Maharashtra": {
+      "Raigad": [
+        {
+          "crop": "Kharif rice",
+          "cropStage": "Stem elongation, Panicle Initiation stage",
+          "advisory": "Keep the bunds weed free in rice field. Keep the water level in rice field 5 to 10 cm at stem elongation stage. If infestation of blue beetle and leaf folder is observed then spray quinalphos 25% EC @ 2 lit. or triazophos 40% EC @ 625 ml or lambda cyhalothrin 5% EC @ 250 ml in 500 lit. of water per hectare. For control of blast disease, spray tricyclazole 75%WP @ 10 gm per 10 liter of water during clear weather. For control of yellow stem borer spray imidachloropid 17.8% SL 125 ml or fipronil 5 % SC, 1500 ml per 500 liters of water in clear weather."
+        },
+        {
+          "crop": "Mango",
+          "cropStage": "Vegetative",
+          "advisory": "Due to high humidity, there is possibility of incidence of fungal diseases that causes dieback of branches in mango trees having thick foliage. If noticed, cut the infected branch portion 2-3 inches below infection point and apply bordo paste to cut portion and spray 1% bordomixture or Copper oxychloride 2.5 gm per liter of water onto entire branches and stem portion of mango tree during clear weather."
+        },
+        {
+          "crop": "Cashewnut",
+          "cropStage": "Vegetative",
+          "advisory": "Due to cloudy and humid weather condition, there is possibility of incidence of shoot borer on vegetative flush cashew. To protect the flush, spray Lambda cyhalothrin 5%EC @ 6ml or Quinalphos 25%EC@25 ml per 10 liters of water during clear weather."
+        },
+        {
+          "crop": "Coconut",
+          "cropStage": "Vegetative to fruiting",
+          "advisory": "There is a possibility of the incidence of bud rot disease on coconut crops. If observed, clean the rotting bud and pour 1% Bordeaux mixture into it or spray 0.25% copper oxychloride by mixing 25 grams in 10 liters of water."
+        },
+        {
+          "crop": "Arecanut",
+          "cropStage": "Vegetative to fruiting",
+          "advisory": "To manage the kolerog fungal disease, infected bunches and dried leaves should be collected and destroyed. Spray a 1% Bordeaux mixture at the leaf axils, or apply a 0.3% solution of Fosetyl-AL (3 grams per 10 liters of water)."
+        },
+        {
+          "crop": "Cucurbitaceous Vegetable crops",
+          "cropStage": "Flowering to fruiting",
+          "advisory": "For control of fruit fly, install cue lure 'Rakshak' trap @ 2 nos. per acre. For control of leaf miner, spray profenophos @ 10 ml per 10 liters of water or lambda cyhalothrin @6ml per 10 liters of water. For control of downy mildew, spray Mancozeb or Zineb 2.5 gm /lit of water at an interval of 10 to 15 days."
+        },
+        {
+          "crop": "Chilli, Brinjal, Tomato",
+          "cropStage": "Flowering to Fruiting",
+          "advisory": "For control of hoppers, whiteflies and aphids, spray dimethoate 30%EC @15 ml per 10 liters of water during clear weather."
+        }
+      ],
+      "Pune": [
+        {
+          "crop": "Paddy",
+          "cropStage": "Stem elongation, Panicle Initiation stage",
+          "advisory": "Keep the bunds weed free in rice field. Keep the water level in rice field 5 to 10 cm at stem elongation stage. If infestation of blue beetle and leaf folder is observed then spray quinalphos 25% EC @ 2 lit. or triazophos 40% EC @ 625 ml or lambda cyhalothrin 5% EC @ 250 ml in 500 lit. of water per hectare. For control of blast disease, spray tricyclazole 75%WP @ 10 gm per 10 liter of water during clear weather. For control of yellow stem borer spray imidachloropid 17.8% SL 125 ml or fipronil 5 % SC, 1500 ml per 500 liters of water in clear weather."
+        },
+        {
+          "crop": "Maize",
+          "cropStage": "Vegetative growth stage",
+          "advisory": "For control of fall army worm spray neem-based insecticide azadirachtin (1500 ppm), 5 ml per liter of water when there is no rainfall and calm wind."
+        },
+        {
+          "crop": "Cotton",
+          "cropStage": "Square formation, flowering stage",
+          "advisory": "Carryout intercultural operations for weed control. Spray 5% neem ark when there are no rains to protect from sap sucking pests. Erect 5 pheromone traps per hectare for control of green leaf eating caterpillar."
+        },
+        {
+          "crop": "Pigeon Pea",
+          "cropStage": "Branching stage",
+          "advisory": "Hoeing or weeding should be done as required to avoid competition between the crop and weeds for soil moisture and nutrients."
+        },
+        {
+          "crop": "Soybean",
+          "cropStage": "Pod development stage",
+          "advisory": "For control of Spodoptera, erect 5 pheromone traps per hectare. To control viral mosaic disease spread by sap sucking pests, spray Imidachloropid 17.8% SL 4 ml or Methyl Demeton 25% solution 10 ml in 10 liters of water in clear weather."
+        },
+        {
+          "crop": "Green gram & black gram",
+          "cropStage": "Maturity to harvest stage", 
+          "advisory": "When pods are 75% dried, do first picking. Complete picking after 8-10 days. Harvest matured crops and store at safe places. Cover harvested produce properly. Thresh when pods are fully dried."
+        },
+        {
+          "crop": "Banana",
+          "cropStage": null,
+          "advisory": "For control of blast (sigatoka) disease, destroy affected leaf parts. Spray propiconyazol 5 ml and mineral oil 100 ml per 10 liter of water in clear weather. Repeat spray after 20 days."
+        }
+      ],
+      "Parbhani": [
+        {
+          "crop": "Soybean",
+          "cropStage": "Pod formation to Pod development",
+          "advisory": "Remove stagnated excess water from field. For insect management, spray Chlorantraniliprole 18.5% 60 ml or Indoxacarb 15.8% @ 140 ml or Acetamiprid 25% + Bifenthrin 25% 100 g or Chlorantraniliprole 9.3% + Lambda-cyhalothrin 4.6% 80 ml or Isocycloseram 9.2 % @ 240 ml per acre in clear weather. For Colletotrichum disease management, spray Tebuconazole 10% + Sulphur 65% @ 25 g or Tebuconazole 25.9 % @ 12.5 ml or Pyraclostrobin 20 % @ 7.5 to 10 g per 10 liter of water in clear weather."
+        },
+        {
+          "crop": "Cotton",
+          "cropStage": "Square formation to bowl formation",
+          "advisory": "Remove stagnated excess water from field. For wilting management, drench 200 g Urea + 100 g White potash + 25 g Copper oxychloride per 10 liter of water, 100 ml per plant. Press soil near dry trees after drenching."
+        },
+        {
+          "crop": "Kharif sorghum", 
+          "cropStage": "Vegetative Growth",
+          "advisory": "Remove stagnated excess water from field. For fall armyworm management, spray Emamectine Benzoate 5 % @ 4 g or Spinetoram 11.7 SC @ 4 ml per 10 liter of water in clear weather."
+        },
+        {
+          "crop": "Sugarcane",
+          "cropStage": "Vegetative Growth", 
+          "advisory": "Remove stagnated excess water from field. For white grubs management, apply metarhizium anisopliae @ 4 kg per acre. For stem borer control, spray Chlorpyriphos 20% @ 25 ml or chlorantraniliprole 18.5 % @ 4 ml per 10 liter of water in clear weather."
+        },
+        {
+          "crop": "Turmeric",
+          "cropStage": "Growth",
+          "advisory": "Remove stagnated excess water from field. For Rhizome fly management, spray Quinalphos 25 % @ 20 ml or Diamethoate 30 % @ 15 ml per 10 liter of water at 15 day intervals in clear weather. Cover rhizome with soil."
+        },
+        {
+          "crop": "Citrus",
+          "cropStage": "Fruit Initiation to fruit development",
+          "advisory": "Remove stagnated excess water from orchard. For fruit drop control, spray NAA 15 PPM in clear weather. For fruit development, spray 00:52:34 @ 10 g per liter of water in clear weather."
+        },
+        {
+          "crop": "Pomegranate",
+          "cropStage": "fruit development",
+          "advisory": "Remove stagnated excess water from orchard. For fruit development, spray 00:52:34 @ 10 g per liter of water in clear weather."
+        },
+        {
+          "crop": "Sapota",
+          "cropStage": "Growth",
+          "advisory": "Remove stagnated excess water from orchard."
+        },
+        {
+          "crop": "Vegetable",
+          "cropStage": "Harvesting/Growth",
+          "advisory": "Remove stagnated excess water from field. Harvest mature vegetables. For downy mildew control in cucurbits, spray Metalaxyl 4 % + Mancozeb 64% @ 25 g per 10 liter of water in clear weather."
+        }
+      ],
+      "Palghar": [
+        {
+          "crop": "Kharif rice",
+          "cropStage": "Tillering to Panicle initiation stage",
+          "advisory": "Maintain 5 cm water level in field. Keep bunds weed free. For leaf-folder control, spray 20% quinolphos 900 ml per 500 liters water per hectare. For stem borer control, spray Cartap hydrochloride 20 gram per 10 liters water. Install pheromone traps @ 8 per acre. For bacterial blast control, spray 75% water soluble tricyclozole per 10 liters water with sticker."
+        },
+        {
+          "crop": "Mango",
+          "cropStage": "Vegetative growth", 
+          "advisory": "For wilt disease control in new orchards, drench with 2 kg Trichoderma viride per 200 liters water."
+        },
+        {
+          "crop": "Sapota",
+          "cropStage": "Fruiting",
+          "advisory": "Collect and destroy dropped fruits to prevent phytophthora spread. To prevent fruit drop, spray metalaxil (8%) + mancozeb (64%) 20 grams per 10 liters water on entire tree. Use sticker while spraying."
+        },
+        {
+          "crop": "Coconut",
+          "cropStage": "Vegetative growth",
+          "advisory": "For bud rot disease control, spray 1% bordo mixture. Keep orchard weed free."
+        },
+        {
+          "crop": "Cashew",
+          "cropStage": "Vegetative growth",
+          "advisory": "For dieback disease control, cut infected branches 2-3 inches below infection, apply bordo paste, and spray copper oxychloride 2.5 gm per liter water on branches and stem in clear weather."
+        },
+        {
+          "crop": "Cucurbitaceous vegetable",
+          "cropStage": "Fruiting to harvesting",
+          "advisory": "For fungal disease control, spray carbon diazium 10 grams per 10 liters water. For fruit fly control, install 4 cue-lure traps per acre at 1-2 feet height."
+        }
+      ],
+      "Osmanabad": [
+        {
+          "crop": "Pigeon Pea",
+          "cropStage": "Vegetative stage",
+          "advisory": "For leaf rolling caterpillar control, spray Quinalphos 25% EC 28 ml or Emamectin benzoate 5% SG 4.5 gm or Chlorantraniliprole 18.5% SC @ 3 ml/10 liters water in clear weather."
+        },
+        {
+          "crop": "Green/Black gram",
+          "cropStage": "Harvesting stage",
+          "advisory": "Harvest timely sown and matured crop."
+        },
+        {
+          "crop": "Kharif Groundnut",
+          "cropStage": "Pod filling stage",
+          "advisory": "For tikka disease control, spray Carbendazim 50% WP @ 225 gm per hectare in 750 liters water or Hexaconazole 5% EC 30 ml/10 liters water in clear weather."
+        },
+        {
+          "crop": "Grape",
+          "cropStage": "Growth stage",
+          "advisory": "For downy mildew, anthracnose and leaf spot control, spray Chlorothalonil 75% WP @ 20 gm/10 liter water in clear weather."
+        },
+        {
+          "crop": "Custard apple",
+          "cropStage": "Fruit development stage",
+          "advisory": "For mealy bug control, spray Neem oil @ 20 ml/10 liters water in clear weather. Install 5-7 pheromone traps per acre for fruit fly control, change lure every 25 days."
+        },
+        {
+          "crop": "Vegetable crops",
+          "cropStage": null,
+          "advisory": "For chilli leaf curl control, remove infected plants and spray Pyriproxyfen 10% EC @ 20 ml or Fenpropathrin 30% EC @ 30 ml/10 liters water in clear weather. For onion downy mildew, blight and anthracnose control, spray Azoxystrobin 18.2% + Difenoconazole 11.4% SC @ 10 ml/10 liters water. Spray Grade-II micronutrient @ 50 gm/10 liters water for micronutrient demand."
+        }
+      ]
+    }
+  }
