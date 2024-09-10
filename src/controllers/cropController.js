@@ -1,3 +1,5 @@
+const fs = require("fs").promises
+const path = require("path");
 const catchAsync = require("../utils/catchAsync");
 const {Crop, User} = require("../models");
 const AppError = require("../utils/appError");
@@ -62,3 +64,20 @@ exports.fetchUserCrops = catchAsync(async(req, res, next)=>{
         }
     })
 })
+
+
+exports.getCropsData = catchAsync(async (req, res, next) => {
+    try {
+        const filePath = path.resolve(__dirname, '../data/CropData.json');
+        const datas = await fs.readFile(filePath, 'utf-8');
+        const parsedData = JSON.parse(datas)
+
+        res.status(200).json({
+            status: 'success',
+            data: {parsedData}
+        });
+    } catch (error) {
+        console.error(error);
+        return next(new AppError("Error Fetching Weather Data", 500));
+    }
+});
